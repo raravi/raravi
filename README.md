@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I design websites that are quite simple and just work. That’s always my motto. You should take a look at my website to see this in action - https://www.amithraravi.com!
+
+I've been working on Frontend development primarily in the last 3 years. I've worked with node.js, React, static site generators like Jekyll/Gatsby, Docker/CircleCI for CI/CD, Grunt, Gulp, Babel and webpack. CSS, HTML5, JavaScript (with ES6) are the bedrock of my web design experience. In fact, the current version of my site is built using Jekyll.
+
+I've also worked on web optimisation techniques - asset compression, image conversion, font delivery techniques, faster delivery using CDNs, SEO optimisations, Adherence to Web Content Accessibility Standards and debugging performance issues using WebPageTest.
+
+Writing is my passion and I have been writing articles on Google+, photo stories on Instagram and more recently, longer articles on Medium (https://medium.com/@raravi) and on my personal blog (www.amithraravi.com).
+
+Before working in Frontend design, I’ve worked in the IT industry for over 8 years in other roles. I started off as an analyst, working through the technical aspects of the issue, and as a Tech Lead gained understanding on the business side as well. I've worked in Incident Management roles where I handle the clients and help the teams deliver as per SLAs. I have extensive experience in client-facing roles and leverage it to ensure my clients' total satisfaction with the product delivered. 
