@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 I am Amith, currently working as a Software Engineer at Crewmeister!
 
-<a href="https://www.linkedin.com/in/amith-raravi-82b525139/"><img src="linkedin.png" width="24px" /></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.amithraravi.com"><img src="blogging.png" width="24px" /></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://medium.com/@raravi"><img src="medium.png" width="24px" /></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://medium.com/@raravi"><img src="twitter.png" width="24px" /></a>
+<a href="https://www.linkedin.com/in/amith-raravi-82b525139/"><img src="linkedin.png" width="24px" /></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.amithraravi.com"><img src="blog.png" width="24px" /></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://medium.com/@raravi"><img src="medium.png" width="24px" /></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://medium.com/@raravi"><img src="twitter.png" width="24px" /></a>
 
 I also create open-source projects on JavaScript, React, TypeScript, Express, MongoDB, Docker and other related web technologies!!
 
