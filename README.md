@@ -68,11 +68,11 @@ I've been working on Frontend development primarily in the last 3 years. I work 
 
 <div style="display: flex"><div>
 
-[![Sudoku](https://github-readme-stats.vercel.app/api/pin/?username=raravi&repo=sudoku&theme=tokyonight)](https://github.com/raravi/sudoku)
+[![Sudoku](https://github-readme-stats.vercel.app/api/pin/?username=raravi&repo=sudoku&theme=great-gatsby)](https://github.com/raravi/sudoku)
 
 </div><div style="padding-left: 20px">
 
-[![TicTacToe](https://github-readme-stats.vercel.app/api/pin/?username=raravi&repo=tictactoe&theme=tokyonight)](https://github.com/raravi/tictactoe)
+[![TicTacToe](https://github-readme-stats.vercel.app/api/pin/?username=raravi&repo=tictactoe&theme=great-gatsby)](https://github.com/raravi/tictactoe)
 
 </div></div>
 
