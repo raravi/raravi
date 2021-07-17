@@ -20,63 +20,57 @@ I am Amith, currently working as a Software Engineer at Crewmeister!
 I also create open-source projects on JavaScript, React, TypeScript, Express, MongoDB, Docker and other related web technologies!!
 
 <p>
-<div style="display: flex"><div>
-
-<img src="https://github-readme-stats.vercel.app/api?username=raravi&show_icons=true&theme=merko&hide=contribs"/>
-
-</div><div style="padding-left: 20px">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raravi&theme=merko&layout=compact" />
-
-</div></div>
+  <img src="https://github-readme-stats.vercel.app/api?username=raravi&show_icons=true&theme=merko&hide=contribs" width="55%" />
+  &nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raravi&theme=merko&layout=compact" width="40%" />
 </p>
 
 I design websites that are quite simple and just work. Take a look at my website - https://www.amithraravi.com! If you're interested here is the code!
 
-<div style="display: flex"><div>
-
-[![Website with Jekyll](https://github-readme-stats.vercel.app/api/pin/?username=raravi&repo=amithraravi2.com&theme=radical)](https://github.com/raravi/amithraravi2.com)
-
-</div><div style="padding-left: 20px">
-
-[![Website with Gatsby](https://github-readme-stats.vercel.app/api/pin/?username=raravi&repo=amithraravi-3&theme=radical)](https://github.com/raravi/amithraravi-3)
-
-</div></div>
+<p>
+  <a href="https://github.com/raravi/amithraravi2.com">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=raravi&repo=amithraravi2.com&theme=radical" width="47%" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/raravi/amithraravi-3">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=raravi&repo=amithraravi-3&theme=radical" width="47%" />
+  </a>
+</p>
 
 I've been working on Frontend development primarily in the last 3 years. I work with **React**, **React Native (with Expo)**, **TypeScript**, **node.js**, static site generators (**Jekyll**/**Gatsby**), **Docker**/**CircleCI** for CI/CD, **Grunt**, **Gulp**, **Babel** and **webpack**. **CSS**, **HTML5**, **JavaScript (with ES6)** are the bedrock of my web design experience.
 ##### Apps
 
-<div style="display: flex"><div>
+<p>
+  <a href="https://github.com/raravi/chat-app-server">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=raravi&repo=chat-app-server&theme=tokyonight" width="47%" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/raravi/chat-app-client">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=raravi&repo=chat-app-client&theme=tokyonight" width="47%" />
+  </a>
+</p>
 
-[![Chat App Server](https://github-readme-stats.vercel.app/api/pin/?username=raravi&repo=chat-app-server&theme=tokyonight)](https://github.com/raravi/chat-app-server)
-
-</div><div style="padding-left: 20px">
-
-[![Chat App Client](https://github-readme-stats.vercel.app/api/pin/?username=raravi&repo=chat-app-client&theme=tokyonight)](https://github.com/raravi/chat-app-client)
-
-</div></div>
-
-<div style="display: flex"><div>
-
-[![Notes Server](https://github-readme-stats.vercel.app/api/pin/?username=raravi&repo=notes-server&theme=nightowl)](https://github.com/raravi/notes-server)
-
-</div><div style="padding-left: 20px">
-
-[![Notes Client](https://github-readme-stats.vercel.app/api/pin/?username=raravi&repo=notes-client&theme=nightowl)](https://github.com/raravi/notes-client)
-
-</div></div>
+<p>
+  <a href="https://github.com/raravi/notes-server">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=raravi&repo=notes-server&theme=nightowl" width="47%" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/raravi/notes-client">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=raravi&repo=notes-client&theme=nightowl" width="47%" />
+  </a>
+</p>
 
 ##### Games
 
-<div style="display: flex"><div>
-
-[![Sudoku](https://github-readme-stats.vercel.app/api/pin/?username=raravi&repo=sudoku&theme=great-gatsby)](https://github.com/raravi/sudoku)
-
-</div><div style="padding-left: 20px">
-
-[![TicTacToe](https://github-readme-stats.vercel.app/api/pin/?username=raravi&repo=tictactoe&theme=great-gatsby)](https://github.com/raravi/tictactoe)
-
-</div></div>
+<p>
+  <a href="https://github.com/raravi/sudoku">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=raravi&repo=sudoku&theme=great-gatsby" width="47%" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/raravi/tictactoe">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=raravi&repo=tictactoe&theme=great-gatsby" width="47%" />
+  </a>
+</p>
 
 **Web optimisation** techniques I've implemented include - asset compression, image conversion, font delivery techniques, faster delivery using CDNs, SEO optimisations, Adherence to Web Content Accessibility Standards and debugging performance issues using WebPageTest.
 
