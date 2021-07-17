@@ -19,15 +19,17 @@ I am Amith, currently working as a Software Engineer at Crewmeister!
 
 I also create open-source projects on JavaScript, React, TypeScript, Express, MongoDB, Docker and other related web technologies!!
 
+<p>
 <div style="display: flex"><div>
 
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=raravi&show_icons=true&theme=merko&hide=contribs)
+<img src="https://github-readme-stats.vercel.app/api?username=raravi&show_icons=true&theme=merko&hide=contribs"/>
 
 </div><div style="padding-left: 20px">
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raravi&theme=merko&layout=compact)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raravi&theme=merko&layout=compact" />
 
 </div></div>
+</p>
 
 I design websites that are quite simple and just work. Take a look at my website - https://www.amithraravi.com! If you're interested here is the code!
 
