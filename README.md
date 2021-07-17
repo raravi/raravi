@@ -25,7 +25,7 @@ I also create open-source projects on JavaScript, React, TypeScript, Express, Mo
 
 </div><div style="padding-left: 20px">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raravi&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raravi&theme=tokyonight)
 
 </div></div>
 
@@ -72,7 +72,7 @@ I've been working on Frontend development primarily in the last 3 years. I work 
 
 </div><div style="padding-left: 20px">
 
-[![TicTacToe](https://github-readme-stats.vercel.app/api/pin/?username=raravi&repo=tictactoe&theme=tokyonight)](https://github.com/raravi/sudoku)
+[![TicTacToe](https://github-readme-stats.vercel.app/api/pin/?username=raravi&repo=tictactoe&theme=tokyonight)](https://github.com/raravi/tictactoe)
 
 </div></div>
 
