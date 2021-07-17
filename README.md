@@ -21,11 +21,11 @@ I also create open-source projects on JavaScript, React, TypeScript, Express, Mo
 
 <div style="display: flex"><div>
 
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=raravi&show_icons=true&theme=tokyonight&hide=contribs)
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=raravi&show_icons=true&theme=merko&hide=contribs)
 
 </div><div style="padding-left: 20px">
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raravi&theme=tokyonight&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raravi&theme=merko&layout=compact)
 
 </div></div>
 
@@ -33,11 +33,11 @@ I design websites that are quite simple and just work. Take a look at my website
 
 <div style="display: flex"><div>
 
-[![Website with Jekyll](https://github-readme-stats.vercel.app/api/pin/?username=raravi&repo=amithraravi2.com&theme=tokyonight)](https://github.com/raravi/amithraravi2.com)
+[![Website with Jekyll](https://github-readme-stats.vercel.app/api/pin/?username=raravi&repo=amithraravi2.com&theme=radical)](https://github.com/raravi/amithraravi2.com)
 
 </div><div style="padding-left: 20px">
 
-[![Website with Gatsby](https://github-readme-stats.vercel.app/api/pin/?username=raravi&repo=amithraravi-3&theme=tokyonight)](https://github.com/raravi/amithraravi-3)
+[![Website with Gatsby](https://github-readme-stats.vercel.app/api/pin/?username=raravi&repo=amithraravi-3&theme=radical)](https://github.com/raravi/amithraravi-3)
 
 </div></div>
 
@@ -56,11 +56,11 @@ I've been working on Frontend development primarily in the last 3 years. I work 
 
 <div style="display: flex"><div>
 
-[![Notes Server](https://github-readme-stats.vercel.app/api/pin/?username=raravi&repo=notes-server&theme=tokyonight)](https://github.com/raravi/notes-server)
+[![Notes Server](https://github-readme-stats.vercel.app/api/pin/?username=raravi&repo=notes-server&theme=nightowl)](https://github.com/raravi/notes-server)
 
 </div><div style="padding-left: 20px">
 
-[![Notes Client](https://github-readme-stats.vercel.app/api/pin/?username=raravi&repo=notes-client&theme=tokyonight)](https://github.com/raravi/notes-client)
+[![Notes Client](https://github-readme-stats.vercel.app/api/pin/?username=raravi&repo=notes-client&theme=nightowl)](https://github.com/raravi/notes-client)
 
 </div></div>
 
