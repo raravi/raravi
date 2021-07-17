@@ -21,13 +21,14 @@ I also create open-source projects on JavaScript, React, TypeScript, Express, Mo
 
 <div style="display: flex"><div>
 
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=raravi&show_icons=true&theme=tokyonight&hide=contribs)
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=raravi&show_icons=true&theme=tokyonight&hide=contribs" />
 
 </div><div style="padding-left: 20px">
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raravi&theme=tokyonight)
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raravi&theme=tokyonight&layout=compact" />
 
 </div></div>
+<br />
 
 I design websites that are quite simple and just work. Take a look at my website - https://www.amithraravi.com! If you're interested here is the code!
 
