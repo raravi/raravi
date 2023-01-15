@@ -29,20 +29,20 @@ My name is Amith, and I'm currently working as a Full Stack Software Engineer at
 I also create open-source projects on JavaScript, React, TypeScript, Express, MongoDB, Docker and other related web technologies!!
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=raravi&show_icons=true&theme=merko&hide=contribs" width="55%" />
+  <img src="https://github-readme-stats-raravi.vercel.app/api?username=raravi&show_icons=true&theme=merko&hide=contribs" width="55%" />
   &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raravi&theme=merko&layout=compact" width="40%" />
+  <img src="https://github-readme-stats-raravi.vercel.app/api/top-langs/?username=raravi&theme=merko&layout=compact" width="40%" />
 </p>
 
 I design websites that are quite simple and just work. Take a look at my website - https://www.amithraravi.com! If you're interested here is the code!
 
 <p>
   <a href="https://github.com/raravi/amithraravi2.com">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=raravi&repo=amithraravi2.com&theme=radical" width="47%" />
+    <img src="https://github-readme-stats-raravi.vercel.app/api/pin/?username=raravi&repo=amithraravi2.com&theme=radical" width="47%" />
   </a>
   &nbsp;&nbsp;
   <a href="https://github.com/raravi/amithraravi-3">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=raravi&repo=amithraravi-3&theme=radical" width="47%" />
+    <img src="https://github-readme-stats-raravi.vercel.app/api/pin/?username=raravi&repo=amithraravi-3&theme=radical" width="47%" />
   </a>
 </p>
 
@@ -50,21 +50,21 @@ I design websites that are quite simple and just work. Take a look at my website
 
 <p>
   <a href="https://github.com/raravi/chat-app-server">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=raravi&repo=chat-app-server&theme=tokyonight" width="47%" />
+    <img src="https://github-readme-stats-raravi.vercel.app/api/pin/?username=raravi&repo=chat-app-server&theme=tokyonight" width="47%" />
   </a>
   &nbsp;&nbsp;
   <a href="https://github.com/raravi/chat-app-client">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=raravi&repo=chat-app-client&theme=tokyonight" width="47%" />
+    <img src="https://github-readme-stats-raravi.vercel.app/api/pin/?username=raravi&repo=chat-app-client&theme=tokyonight" width="47%" />
   </a>
 </p>
 
 <p>
   <a href="https://github.com/raravi/notes-server">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=raravi&repo=notes-server&theme=nightowl" width="47%" />
+    <img src="https://github-readme-stats-raravi.vercel.app/api/pin/?username=raravi&repo=notes-server&theme=nightowl" width="47%" />
   </a>
   &nbsp;&nbsp;
   <a href="https://github.com/raravi/notes-client">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=raravi&repo=notes-client&theme=nightowl" width="47%" />
+    <img src="https://github-readme-stats-raravi.vercel.app/api/pin/?username=raravi&repo=notes-client&theme=nightowl" width="47%" />
   </a>
 </p>
 
@@ -72,11 +72,11 @@ I design websites that are quite simple and just work. Take a look at my website
 
 <p>
   <a href="https://github.com/raravi/sudoku">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=raravi&repo=sudoku&theme=great-gatsby" width="47%" />
+    <img src="https://github-readme-stats-raravi.vercel.app/api/pin/?username=raravi&repo=sudoku&theme=great-gatsby" width="47%" />
   </a>
   &nbsp;&nbsp;
   <a href="https://github.com/raravi/tictactoe">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=raravi&repo=tictactoe&theme=great-gatsby" width="47%" />
+    <img src="https://github-readme-stats-raravi.vercel.app/api/pin/?username=raravi&repo=tictactoe&theme=great-gatsby" width="47%" />
   </a>
 </p>
 
