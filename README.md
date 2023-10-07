@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-My name is Amith, and I'm currently working as a Full Stack Software Engineer at Crewmeister!
+My name is Amith, and I'm currently working as a Full Stack Software Engineer at EGym!
 
 <a href="https://www.linkedin.com/in/amith-raravi-82b525139/"><img src="linkedin.png" width="24px" /></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.amithraravi.com"><img src="blog.png" width="24px" /></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://medium.com/@raravi"><img src="medium.png" width="24px" /></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://medium.com/@raravi"><img src="twitter.png" width="24px" /></a>
 
